@@ -1,1 +1,1 @@
-# Forkeado de fdsw-github por JGuzGaj
+# Forkeado de gsanchezd/fdsw-github por JGuzGaj
